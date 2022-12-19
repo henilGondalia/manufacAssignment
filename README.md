@@ -14,4 +14,4 @@ To start project, you can run:
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![Capture](https://user-images.githubusercontent.com/34880491/208237283-960a8f6c-7679-4108-b2a2-b3b2af75fbb4.PNG)
+![manufac](https://user-images.githubusercontent.com/34880491/208430881-acdd4c0f-fd8b-494b-a315-773eb6b8feca.PNG)
