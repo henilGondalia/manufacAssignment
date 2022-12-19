@@ -1,4 +1,3 @@
-import React, {useState, useEffect} from 'react';
 import ECharts from './component/Echarts';
 import { wineData } from './data/wineData';
 
@@ -23,6 +22,7 @@ function App() {
       trigger: 'axis',
     },
   };
+
   // To find how many alcohol category is there
   const AlcoholCategory = Array.from(new Set<any>(wineData.map((data: any)=> data['Alcohol'])))
 
